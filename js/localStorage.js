@@ -1,0 +1,3 @@
+//configuração localStorage
+
+
